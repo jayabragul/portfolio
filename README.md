@@ -20,7 +20,7 @@ This is my personal portfolio website showcasing my projects, skills, and experi
 
 ## How to View the Website
 
-To view my portfolio website, simply click (link) and explore the projects and content I've curated.
+To view my portfolio website, simply click [here](link-to-your-portfolio-website) and explore the projects and content I've curated.
 
 ## Preview
 
